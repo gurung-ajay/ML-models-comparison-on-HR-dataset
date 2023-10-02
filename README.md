@@ -6,3 +6,5 @@ Using HR dataset, I built models to predict whether an employee will leave the c
 To download the dataset in Google Colab run:   !gdown 1g1nwk4k-h9FceEHKZc8ocfu_xp3xnZ8R
 
 Out of all the models, Random Forest performed the best with f1 score = 0.983
+
+I used f1 score for scoring because it can evaluate the model by considering the imbalance of data.
